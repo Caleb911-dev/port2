@@ -1,0 +1,58 @@
+body{
+    background-color: peachpuff;
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.sec-1{
+    background-color: peru;
+}
+a{
+    position: relative;
+    left: 600px;
+    margin: 30px;
+    color: purple;
+    text-decoration: none;
+}
+a:hover{
+    color: royalblue;
+}
+h4{
+    display: inline-block;
+    margin-left: 50px;
+}
+.reg{
+    position: relative;
+    top: 20%;
+    left: 200px;
+}
+.qt{
+    height: 20px;
+    width: 20%;
+    margin-bottom: 20px;
+    
+}
+.qt1{
+    border:none;
+    border-radius: 20px;
+    outline: none;
+    height: 40px;
+    width: 150px;
+    font-weight: bold;
+    background-color: peru;
+    margin-left: 400px;
+}
+.qt1:hover{
+    background-color: rgb(150, 77, 3);
+}
+.lab{
+    color: black;
+    margin-left: 250px;
+}
+h1{
+    margin-left: 400px;
+    color: darkred;
+}
+hr{
+    width: 30%;
+    margin-left: 260px;
+}

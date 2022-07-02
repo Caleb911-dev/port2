@@ -1,0 +1,67 @@
+body{
+    background-color: peachpuff;
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.sec-1{
+    background-color: peru;
+}
+.sec-2{
+    margin-top: 10%;
+}
+h1{
+    margin-left: 300px;
+}
+.web{
+    margin-left: 300px;
+}
+h4{
+    display: inline-block;
+    margin-left: 50px;
+}
+a{
+    position: relative;
+    left: 600px;
+    margin: 30px;
+    color: purple;
+    text-decoration: none;
+}
+a:hover{
+    color: royalblue;
+}
+.hey{
+    text-align: left;
+    margin-left: 300px;
+    font-family: cursive;
+    font-size: 30px;
+}
+.intro{
+    width: 25%;
+    text-align: left;
+    margin-left: 300px
+}
+img{
+    float: right;
+    margin-right: 400px;
+    height: 250px;
+    width: 250px;
+}
+.goal-h2{
+    margin-top: 100px;
+    margin-left: 50px;
+    color: darkred;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: darkred;
+    border-width: 5px;
+    width: 10%;
+}
+.goal{
+    margin-left: 50px;
+    width: 40%;
+}
+table{
+    margin-left: 50px;
+}
